@@ -15,7 +15,7 @@ All challenge questions, and code are updated daily in a single Jupyter Notebook
 
 ## 🧮 Progress Tracker
 
-To keep myself accountable, I’m also maintaining a separate progress tracker [Excel tracker](30_days_Python_Mohd Akif.xlsx) that includes:
+To keep myself accountable, I’m also maintaining a separate progress tracker [Excel tracker](30_days_Python_Mohd%20Akif.xlsx) that includes:
 - ✅ Completed days  
 - 🔗 Links to my posts on LinkedIn/X
 
