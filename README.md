@@ -13,12 +13,6 @@ All challenge questions, and code are updated daily in a single Jupyter Notebook
 
 📘 [Click here to view/download the Jupyter Notebook File](30DaysChallenge.ipynb)
 
-## 🧮 Progress Tracker
-
-To keep myself accountable, I’m also maintaining a separate progress tracker [Excel sheet](30_days_Python_Mohd%20Akif.xlsx) that includes:
-- ✅ Completed days  
-- 🔗 Links to my posts on LinkedIn/X
-
 ## 🔗 Connect with Me
 
 Feel free to connect or follow my progress on:
