@@ -2,6 +2,7 @@
 
 Welcome to my journey through the **#30DaysOfPython Challenge** by [Indian Data Club](https://indiandataclub.com)!  
 This repository is where I’ll be tracking and sharing my daily Python practice, and learnings — all in one place.
+Roadmap I am following: [Click Here](https://indiandataclub.notion.site/30DaysOfPython-1f9a16c0422f8074bf29eee315a6802a)
 
 ## About the Challenge
 
