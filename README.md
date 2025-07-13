@@ -93,4 +93,4 @@ Feel free to connect or follow my progress:
 
 Stay in the loop and see others’ progress too!  
 Use and follow:  
-**#30DaysOfPython** | **#IDC30DaysChallenge**
+**`#30DaysOfPython`** | **`#IDC30DaysChallenge`**
