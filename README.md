@@ -15,10 +15,7 @@ The goal of this 30-day challenge is to build a solid foundation in Python from 
 
 ## 📓 Notebook
 
-All challenge questions and code are updated daily in a single Jupyter Notebook file:
-
-📘 [Click here to view/download the Jupyter Notebook File](30DaysChallenge.ipynb)
-
+- All challenge questions and code are updated daily in a single Jupyter Notebook file: 📘 [Click here to view/download the Jupyter Notebook File](30DaysChallenge.ipynb)
 - For the **Day 30 Challenge**, t code and dataset can be accessed from [here](pmpml_ridership). You can also access it through the below instructions.
 
 ---
