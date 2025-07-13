@@ -27,7 +27,7 @@ As a culmination of this challenge, I built a **PMPML Ridership Dashboard** usin
 
 This dashboard analyzes dummy PMPML bus ridership data to uncover passenger trends, peak routes, boarding stations, fare collection, and more. It's designed to show how data-driven insights can help enhance public transportation in Pune.
 
-**Check out the live dashboard from here: [https://pmpml-ridership-dashboard.streamlit.app/](https://pmpml-ridership-dashboard.streamlit.app/)
+**Check out the live dashboard from here:** [https://pmpml-ridership-dashboard.streamlit.app/](https://pmpml-ridership-dashboard.streamlit.app/)
 
 ### ✨ Features
 - Interactive filters for Year, Route, and Boarding Station.
