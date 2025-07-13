@@ -36,7 +36,7 @@ def load_lottiefile(filepath: str):
         return json.load(f)
 
 # Load bus animation
-lottie_bus = load_lottiefile("bus.json")
+lottie_bus = load_lottiefile("pmpml_ridership/bus.json")
 
 # ---------------------------------------------------
 # Header with Bus Animation + Title
