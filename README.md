@@ -41,7 +41,7 @@ This dashboard analyzes dummy PMPML bus ridership data to uncover passenger tren
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/MohdAkif919/30-Days-Python-Challenge-IDC.git
-   cd 30-Days-Python-Challenge-IDC
+   cd 30-Days-Python-Challenge-IDC/pmpml_ridership
    ```
 2. **Create Virtual Environment (Recommended)**
    ```bash
@@ -59,7 +59,7 @@ This dashboard analyzes dummy PMPML bus ridership data to uncover passenger tren
    ```
 6. **Upload Your CSV File**
    ```bash
-   - Upload your PMPML ridership CSV file when prompted.
+   - Upload your PMPML ridership CSV file (data/pmpml_ridership_data.csv) when prompted.
    - Use the filters and tabs to explore the data and insights!
    ```
 
