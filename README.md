@@ -46,6 +46,7 @@ This dashboard analyzes dummy PMPML bus ridership data to uncover passenger tren
   python -m venv venv
   source venv/bin/activate   # macOS/Linux
   venv\Scripts\activate      # Windows
+```
 
 3. Install Requirements
 ```bash
