@@ -19,7 +19,7 @@ All challenge questions and code are updated daily in a single Jupyter Notebook 
 
 📘 [Click here to view/download the Jupyter Notebook File](30DaysChallenge.ipynb)
 
-The code and dataset can be accessed from [here](pmpml_ridership). You can also access it through below instructions.
+- For the **Day 30 Challenge**, t code and dataset can be accessed from [here](pmpml_ridership). You can also access it through the below instructions.
 
 ---
 
