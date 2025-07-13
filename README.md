@@ -43,20 +43,14 @@ This dashboard analyzes dummy PMPML bus ridership data to uncover passenger tren
 
 2. **Create Virtual Environment (Recommended)**
   ```bash
-  python -m venv venv
-  source venv/bin/activate   # macOS/Linux
-  venv\Scripts\activate      # Windows
+   python -m venv venv
+   source venv/bin/activate   # macOS/Linux
+   venv\Scripts\activate      # Windows
 ```
+3. **Install Requirements**
+   ```bash
+   pip install -r requirements.txt
 
-3. Install Requirements
-```bash
-
-Copy
-Edit
-pip install -r requirements.txt
-Run the Streamlit App
-
-bash
-Copy
-Edit
-streamlit run app.py
+4. **Run the Streamlit App**
+   ```bash
+   streamlit run app.py
