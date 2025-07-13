@@ -63,17 +63,22 @@ This dashboard analyzes dummy PMPML bus ridership data to uncover passenger tren
    - Use the filters and tabs to explore the data and insights!
    ```
 
-##  📁 Files in This Repository
-- 30DaysChallenge.ipynb – Daily Python practice notebook.
-- pmpml_ridership
-   - app.py - Streamlit dashboard for the PMPML Ridership Capstone Project.
-   - requirements.txt - All dependencies for easy setup.
-   - style.css - Custom styles for the dashboard.
-   - bus.json - Lottie animation file for the bus icon.
-   - eda.py - Exploratory Data Analysis scripts.
-   - plots.py - Python file for creating plots and charts.
-   - utils.py - Utility functions used across the project.
-   - data
-      - pmpml_ridership_data.csv - PMPML ridership dataset used for analysis and visualizations.
-- .streamlit/ — Streamlit configuration files.
-- __pycache__/ — Compiled Python files (auto-generated).
+## 📁 Files in This Repository
+
+- **`30DaysChallenge.ipynb`** — Daily Python practice notebook.
+
+- **`pmpml_ridership/`**
+  - **`app.py`** — Streamlit dashboard for the PMPML Ridership Capstone Project.
+  - **`requirements.txt`** — All dependencies for easy setup.
+  - **`style.css`** — Custom styles for the dashboard.
+  - **`bus.json`** — Lottie animation file for the bus icon.
+  - **`eda.py`** — Exploratory Data Analysis scripts.
+  - **`plots.py`** — Python file for creating plots and charts.
+  - **`utils.py`** — Utility functions used across the project.
+  - **`data/`**
+    - **`pmpml_ridership_data.csv`** — PMPML ridership dataset used for analysis and visualizations.
+
+- **`.streamlit/`** — Streamlit configuration files.
+- **`__pycache__/`** — Compiled Python files (auto-generated).
+
+---
