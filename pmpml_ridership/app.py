@@ -15,7 +15,7 @@ import json
 # ---------------------------------------------------
 # Load custom CSS
 # ---------------------------------------------------
-with open('style.css') as f:
+with open('pmpml_ridership/style.css') as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # ---------------------------------------------------
