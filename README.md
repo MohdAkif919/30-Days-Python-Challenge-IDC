@@ -80,3 +80,16 @@ This dashboard analyzes dummy PMPML bus ridership data to uncover passenger tren
 - **`__pycache__/`** - Compiled Python files (auto-generated).
 
 ---
+
+## 🔗 Connect with Me
+Feel free to connect or follow my progress:
+- **LinkedIn:** [mohdakif919](https://www.linkedin.com/in/mohdakif919/)
+- **X (Twitter):** [@mohdakif919](https://x.com/mohdakif919)
+- **Portfolio:** [View Portfolio](https://codebasics.io/portfolio/Mohd-Akif)
+
+---
+
+## ✨ Hashtags to Follow
+Stay in the loop and see others’ progress too!
+Use and follow:
+`#30DaysOfPython` | `#IDC30DaysChallenge`
