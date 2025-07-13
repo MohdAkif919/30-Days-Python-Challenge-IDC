@@ -86,6 +86,7 @@ def show_documentation():
 
     ### 📁 **Access the Code & Dataset**
     - GitHub Repository: [View the full code and dummy data](https://github.com/MohdAkif919/30-Days-Python-Challenge-IDC)
+    - Struggling to download the dummy dataset from the Github repo? No issues! Download the dataset directly from the google drive link: [Click Here](https://drive.google.com/file/d/13sMozzJA_wjOQOFYwUDJF1yKKBSeynBy/view?usp=sharing)
 
     ### 🙋‍♂️ **About Me**
     - **Mohd Akif**, a Data Analyst passionate about transforming numbers into insights.
